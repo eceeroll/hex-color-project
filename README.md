@@ -1,4 +1,6 @@
 # hex-color-project
 
-![image](https://user-images.githubusercontent.com/73228549/183569780-fb628c85-5d4d-422f-881b-1cfb2a7dba20.png)
+Creates a random hex color and displays color and hex code on the screen. 
+
+![Animation](https://user-images.githubusercontent.com/73228549/183676123-a8a68606-c198-45a9-8adb-3c69d5f28ebb.gif)
 
